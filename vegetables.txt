@@ -1,0 +1,8 @@
+brocolli
+lettuce
+spinach
+cucumber
+kangkung
+potatoe
+cauliflower
+carrot

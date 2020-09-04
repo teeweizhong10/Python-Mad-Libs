@@ -1,0 +1,13 @@
+teacher
+professor
+racer
+footballer
+doctor
+lawyer
+nurse
+pilot
+scientist
+engineer
+
+plumber
+gynecologist
